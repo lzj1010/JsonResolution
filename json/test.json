@@ -1,0 +1,761 @@
+{
+    "children": [{
+            "children": [{
+                    "children": [{
+                            "children": null,
+                            "name": "浏览",
+                            "id": 443,
+                            "label": "浏览",
+                            "open": true,
+                            "parentNode": [
+                                121,
+                                232,
+                            ]
+                        },
+                        {
+                            "children": null,
+                            "name": "批量删除",
+                            "id": 420,
+                            "label": "批量删除",
+                            "open": true,
+                            "parentNode": [
+                                121,
+                                232,
+                            ]
+                        },
+                        {
+                            "children": null,
+                            "name": "搜索",
+                            "id": 415,
+                            "label": "搜索",
+                            "open": true,
+                            "parentNode": [
+                                121,
+                                232,
+                            ]
+                        },
+                        {
+                            "children": null,
+                            "name": "删除",
+                            "id": 414,
+                            "label": "删除",
+                            "open": true,
+                            "parentNode": [
+                                121,
+                                232,
+                            ]
+                        },
+                        {
+                            "children": null,
+                            "name": "编辑",
+                            "id": 413,
+                            "label": "编辑",
+                            "open": true,
+                            "parentNode": [
+                                121,
+                                232,
+                            ]
+                        },
+                        {
+                            "children": null,
+                            "name": "新增",
+                            "id": 412,
+                            "label": "新增",
+                            "open": true,
+                            "parentNode": [
+                                121,
+                                232,
+                            ]
+                        }
+                    ],
+                    "name": "芯片备案",
+                    "id": 411,
+                    "label": "芯片备案",
+                    "open": true,
+                    "parentNode": [
+                        121,
+                    ]
+                },
+                {
+                    "children": [{
+                            "children": null,
+                            "name": "编辑",
+                            "id": 403,
+                            "label": "编辑",
+                            "open": true,
+                            "parentNode": [
+                                121,
+                                232,
+                            ]
+                        },
+                        {
+                            "children": null,
+                            "name": "新增",
+                            "id": 402,
+                            "label": "新增",
+                            "open": true,
+                            "parentNode": [
+                                121,
+                                232,
+                            ]
+                        }
+                    ],
+                    "name": "软件版本管理",
+                    "id": 401,
+                    "label": "软件版本管理",
+                    "open": true,
+                    "parentNode": [
+                        121,
+                    ]
+                },
+                {
+                    "children": [{
+                            "children": [{
+                                    "children": null,
+                                    "name": "浏览",
+                                    "id": 442,
+                                    "label": "浏览",
+                                    "open": true,
+                                    "parentNode": [
+                                        121,
+                                        232,
+                                        241,
+                                    ]
+                                },
+                                {
+                                    "children": null,
+                                    "name": "删除",
+                                    "id": 374,
+                                    "label": "删除",
+                                    "open": true,
+                                    "parentNode": [
+                                        121,
+                                        232,
+                                        241,
+                                    ]
+                                },
+                                {
+                                    "children": null,
+                                    "name": "编辑",
+                                    "id": 373,
+                                    "label": "编辑",
+                                    "open": true,
+                                    "parentNode": [
+                                        121,
+                                        232,
+                                        241,
+                                    ]
+                                },
+                                {
+                                    "children": null,
+                                    "name": "新增",
+                                    "id": 372,
+                                    "label": "新增",
+                                    "open": true,
+                                    "parentNode": [
+                                        121,
+                                        232,
+                                        241,
+                                    ]
+                                }
+                            ],
+                            "name": "内容源支持项管理",
+                            "id": 371,
+                            "label": "内容源支持项管理",
+                            "open": true,
+                            "parentNode": [
+                                121,
+                                232,
+                            ]
+                        },
+                        {
+                            "children": [{
+                                    "children": [{
+                                            "children": null,
+                                            "name": "浏览",
+                                            "id": 441,
+                                            "label": "浏览",
+                                            "open": true,
+                                            "parentNode": [
+                                                121,
+                                                232,
+                                                241,
+                                                311,
+                                            ]
+                                        },
+                                        {
+                                            "children": null,
+                                            "name": "删除",
+                                            "id": 354,
+                                            "label": "删除",
+                                            "open": true,
+                                            "parentNode": [
+                                                121,
+                                                232,
+                                                241,
+                                                311,
+                                            ]
+                                        },
+                                        {
+                                            "children": null,
+                                            "name": "编辑",
+                                            "id": 353,
+                                            "label": "编辑",
+                                            "open": true,
+                                            "parentNode": [
+                                                121,
+                                                232,
+                                                241,
+                                                311,
+                                            ]
+                                        },
+                                        {
+                                            "children": null,
+                                            "name": "新增",
+                                            "id": 352,
+                                            "label": "新增",
+                                            "open": true,
+                                            "parentNode": [
+                                                121,
+                                                232,
+                                                241,
+                                                311,
+                                            ]
+                                        }
+                                    ],
+                                    "name": "一体机管理",
+                                    "id": 351,
+                                    "label": "一体机管理",
+                                    "open": true,
+                                    "parentNode": [
+                                        121,
+                                        232,
+                                        241,
+                                    ]
+                                },
+                                {
+                                    "children": [{
+                                            "children": null,
+                                            "name": "浏览",
+                                            "id": 440,
+                                            "label": "浏览",
+                                            "open": true,
+                                            "parentNode": [
+                                                121,
+                                                232,
+                                                241,
+                                                311
+                                            ]
+                                        },
+                                        {
+                                            "children": null,
+                                            "name": "删除",
+                                            "id": 344,
+                                            "label": "删除",
+                                            "open": true,
+                                            "parentNode": [
+                                                121,
+                                                232,
+                                                241,
+                                                311,
+                                            ]
+                                        },
+                                        {
+                                            "children": null,
+                                            "name": "编辑",
+                                            "id": 343,
+                                            "label": "编辑",
+                                            "open": true,
+                                            "parentNode": [
+                                                121,
+                                                232,
+                                                241,
+                                                311
+                                            ]
+                                        },
+                                        {
+                                            "children": null,
+                                            "name": "新增",
+                                            "id": 342,
+                                            "label": "新增",
+                                            "open": true,
+                                            "parentNode": [
+                                                121,
+                                                232,
+                                                241,
+                                                311,
+                                            ]
+                                        }
+                                    ],
+                                    "name": "遥控器管理",
+                                    "id": 341,
+                                    "label": "遥控器管理",
+                                    "open": true,
+                                    "parentNode": [
+                                        121,
+                                        232,
+                                        241,
+                                    ]
+                                },
+                                {
+                                    "children": [{
+                                            "children": null,
+                                            "name": "浏览",
+                                            "id": 439,
+                                            "label": "浏览",
+                                            "open": true,
+                                            "parentNode": [
+                                                121,
+                                                232,
+                                                241,
+                                                311,
+                                            ]
+                                        },
+                                        {
+                                            "children": null,
+                                            "name": "删除",
+                                            "id": 334,
+                                            "label": "删除",
+                                            "open": true,
+                                            "parentNode": [
+                                                121,
+                                                232,
+                                                241,
+                                                311,
+                                            ]
+                                        },
+                                        {
+                                            "children": null,
+                                            "name": "编辑",
+                                            "id": 333,
+                                            "label": "编辑",
+                                            "open": true,
+                                            "parentNode": [
+                                                121,
+                                                232,
+                                                241,
+                                                311,
+                                            ]
+                                        },
+                                        {
+                                            "children": null,
+                                            "name": "新增",
+                                            "id": 332,
+                                            "label": "新增",
+                                            "open": true,
+                                            "parentNode": [
+                                                121,
+                                                232,
+                                                241,
+                                                311,
+                                            ]
+                                        }
+                                    ],
+                                    "name": "蓝牙管理",
+                                    "id": 331,
+                                    "label": "蓝牙管理",
+                                    "open": true,
+                                    "parentNode": [
+                                        121,
+                                        232,
+                                        241,
+                                    ]
+                                },
+                                {
+                                    "children": [{
+                                            "children": null,
+                                            "name": "浏览",
+                                            "id": 438,
+                                            "label": "浏览",
+                                            "open": true,
+                                            "parentNode": [
+                                                121,
+                                                232,
+                                                241,
+                                                311,
+                                            ]
+                                        },
+                                        {
+                                            "children": null,
+                                            "name": "删除",
+                                            "id": 324,
+                                            "label": "删除",
+                                            "open": true,
+                                            "parentNode": [
+                                                121,
+                                                232,
+                                                241,
+                                                311,
+                                            ]
+                                        },
+                                        {
+                                            "children": null,
+                                            "name": "编辑",
+                                            "id": 323,
+                                            "label": "编辑",
+                                            "open": true,
+                                            "parentNode": [
+                                                121,
+                                                232,
+                                                241,
+                                                311,
+                                            ]
+                                        },
+                                        {
+                                            "children": null,
+                                            "name": "新增",
+                                            "id": 322,
+                                            "label": "新增",
+                                            "open": true,
+                                            "parentNode": [
+                                                121,
+                                                232,
+                                                241,
+                                                311,
+                                            ]
+                                        }
+                                    ],
+                                    "name": "Wi-Fi管理",
+                                    "id": 321,
+                                    "label": "Wi-Fi管理",
+                                    "open": true,
+                                    "parentNode": [
+                                        121,
+                                        232,
+                                        241,
+                                    ]
+                                }
+                            ],
+                            "name": "硬件型号管理",
+                            "id": 311,
+                            "label": "硬件型号管理",
+                            "open": true,
+                            "parentNode": [
+                                121,
+                                232,
+                            ]
+                        },
+                        {
+                            "children": [{
+                                    "children": [{
+                                            "children": null,
+                                            "name": "浏览",
+                                            "id": 437,
+                                            "label": "浏览",
+                                            "open": true,
+                                            "parentNode": [
+                                                121,
+                                                232,
+                                                241,
+                                                291,
+                                            ]
+                                        },
+                                        {
+                                            "children": null,
+                                            "name": "删除",
+                                            "id": 299,
+                                            "label": "删除",
+                                            "open": true,
+                                            "parentNode": [
+                                                121,
+                                                232,
+                                                241,
+                                                291,
+                                            ]
+                                        },
+                                        {
+                                            "children": null,
+                                            "name": "编辑",
+                                            "id": 298,
+                                            "label": "编辑",
+                                            "open": true,
+                                            "parentNode": [
+                                                121,
+                                                232,
+                                                241,
+                                                291,
+                                            ]
+                                        },
+                                        {
+                                            "children": null,
+                                            "name": "新增",
+                                            "id": 297,
+                                            "label": "新增",
+                                            "open": true,
+                                            "parentNode": [
+                                                121,
+                                                232,
+                                                241,
+                                                291,
+                                            ]
+                                        }
+                                    ],
+                                    "name": "RAM",
+                                    "id": 296,
+                                    "label": "RAM",
+                                    "open": true,
+                                    "parentNode": [
+                                        121,
+                                        232,
+                                        241,
+                                    ]
+                                },
+                                {
+                                    "children": [{
+                                            "children": null,
+                                            "name": "浏览",
+                                            "id": 436,
+                                            "label": "浏览",
+                                            "open": true,
+                                            "parentNode": [
+                                                121,
+                                                232,
+                                                241,
+                                                291,
+                                            ]
+                                        },
+                                        {
+                                            "children": null,
+                                            "name": "删除",
+                                            "id": 295,
+                                            "label": "删除",
+                                            "open": true,
+                                            "parentNode": [
+                                                121,
+                                                232,
+                                                241,
+                                                291,
+                                            ]
+                                        },
+                                        {
+                                            "children": null,
+                                            "name": "编辑",
+                                            "id": 294,
+                                            "label": "编辑",
+                                            "open": true,
+                                            "parentNode": [
+                                                121,
+                                                232,
+                                                241,
+                                                291,
+                                            ]
+                                        },
+                                        {
+                                            "children": null,
+                                            "name": "新增",
+                                            "id": 293,
+                                            "label": "新增",
+                                            "open": true,
+                                            "parentNode": [
+                                                121,
+                                                232,
+                                                241,
+                                                291,
+                                            ]
+                                        }
+                                    ],
+                                    "name": "EMMC",
+                                    "id": 292,
+                                    "label": "EMMC",
+                                    "open": true,
+                                    "parentNode": [
+                                        121,
+                                        232,
+                                        241,
+                                    ]
+                                }
+                            ],
+                            "name": "储存选项管理",
+                            "id": 291,
+                            "label": "储存选项管理",
+                            "open": true,
+                            "parentNode": [
+                                121,
+                                232,
+                            ]
+                        },
+                        {
+                            "children": [{
+                                "children": null,
+                                "name": "新增",
+                                "id": 282,
+                                "label": "新增",
+                                "open": true,
+                                "parentNode": [
+                                    121,
+                                    232,
+                                    241,
+                                ]
+                            }],
+                            "name": "屏幕尺寸管理",
+                            "id": 281,
+                            "label": "屏幕尺寸管理",
+                            "open": true,
+                            "parentNode": [
+                                121,
+                                232,
+                            ]
+                        },
+                        {
+                            "children": [{
+                                "children": null,
+                                "name": "新增",
+                                "id": 272,
+                                "label": "新增",
+                                "open": true,
+                                "parentNode": [
+                                    121,
+                                    232,
+                                    241,
+                                ]
+                            }],
+                            "name": "Android版本管理",
+                            "id": 271,
+                            "label": "Android版本管理",
+                            "open": true,
+                            "parentNode": [
+                                121,
+                                232,
+                            ]
+                        },
+                        {
+                            "children": [{
+                                    "children": null,
+                                    "name": "删除",
+                                    "id": 264,
+                                    "label": "删除",
+                                    "open": true,
+                                    "parentNode": [
+                                        121,
+                                        232,
+                                        241,
+                                    ]
+                                },
+                                {
+                                    "children": null,
+                                    "name": "编辑",
+                                    "id": 263,
+                                    "label": "编辑",
+                                    "open": true,
+                                    "parentNode": [
+                                        121,
+                                        232,
+                                        241,
+                                    ]
+                                },
+                                {
+                                    "children": null,
+                                    "name": "新增",
+                                    "id": 262,
+                                    "label": "新增",
+                                    "open": true,
+                                    "parentNode": [
+                                        121,
+                                        232,
+                                        241,
+                                    ]
+                                }
+                            ],
+                            "name": "品牌管理",
+                            "id": 261,
+                            "label": "品牌管理",
+                            "open": true,
+                            "parentNode": [
+                                121,
+                                232,
+                            ]
+                        },
+                        {
+                            "children": [{
+                                    "children": null,
+                                    "name": "删除",
+                                    "id": 254,
+                                    "label": "删除",
+                                    "open": true,
+                                    "parentNode": [
+                                        121,
+                                        232,
+                                        241,
+                                    ]
+                                },
+                                {
+                                    "children": null,
+                                    "name": "编辑",
+                                    "id": 253,
+                                    "label": "编辑",
+                                    "open": true,
+                                    "parentNode": [
+                                        121,
+                                        232,
+                                        241,
+                                    ]
+                                },
+                                {
+                                    "children": null,
+                                    "name": "新增",
+                                    "id": 252,
+                                    "label": "新增",
+                                    "open": true,
+                                    "parentNode": [
+                                        121,
+                                        232,
+                                        241,
+                                    ]
+                                }
+                            ],
+                            "name": "内容商管理",
+                            "id": 251,
+                            "label": "内容商管理",
+                            "open": true,
+                            "parentNode": [
+                                121,
+                                232,
+                            ]
+                        }
+                    ],
+                    "name": "机型属性配置",
+                    "id": 241,
+                    "label": "机型属性配置",
+                    "open": true,
+                    "parentNode": [
+                        121,
+                    ]
+                }
+            ],
+            "name": "基础数据管理",
+            "id": 232,
+            "label": "基础数据管理",
+            "open": true,
+            "parentNode": []
+        },
+        {
+            "children": [{
+                "children": null,
+                "name": "新增",
+                "id": 142,
+                "label": "新增",
+                "open": true,
+                "parentNode": [
+                    121,
+                ]
+            }],
+            "name": "机型备案",
+            "id": 141,
+            "label": "机型备案",
+            "open": true,
+            "parentNode": []
+        },
+        {
+            "children": null,
+            "name": "报备管理",
+            "id": 131,
+            "label": "报备管理",
+            "open": true,
+            "parentNode": []
+        }
+    ],
+    "name": "设备管理",
+    "id": 121,
+    "label": "设备管理",
+    "open": true
+}
